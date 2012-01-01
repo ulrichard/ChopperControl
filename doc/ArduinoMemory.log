@@ -1,0 +1,51 @@
+#define USE_COMPASS
+//#define USE_ACCELERO
+//#define USE_BARO
+#define USE_DRIVEMOTOR
+//#define USE_RANGE_SCANNER
+//define USE_HELP_MSG
+
+->  AM480
+
+
+
+#define USE_COMPASS
+#define USE_ACCELERO
+//#define USE_BARO
+#define USE_DRIVEMOTOR
+//#define USE_RANGE_SCANNER
+//define USE_HELP_MSG
+
+->  AM462
+
+
+#define USE_COMPASS
+#define USE_ACCELERO
+//#define USE_BARO
+#define USE_DRIVEMOTOR
+#define USE_RANGE_SCANNER
+//define USE_HELP_MSG
+
+-> AM422 LT15
+
+
+#define USE_COMPASS
+#define USE_ACCELERO
+//#define USE_BARO
+#define USE_DRIVEMOTOR
+#define USE_RANGE_SCANNER
+#define USE_HELP_MSG
+
+-> AM24
+
+
+
+#define USE_COMPASS
+#define USE_ACCELERO
+#define USE_BARO
+#define USE_DRIVEMOTOR
+#define USE_RANGE_SCANNER
+//#define USE_HELP_MSG
+
+-> AM76 LT290
+

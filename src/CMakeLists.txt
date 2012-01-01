@@ -1,0 +1,10 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+PROJECT(ChopperControl)
+SET(CMAKE_MODULE_PATH ${ChopperControl_SOURCE_DIR})
+
+
+SUBDIRS(ChopperRemote)
+
+
+

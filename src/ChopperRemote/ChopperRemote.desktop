@@ -1,0 +1,16 @@
+
+[Desktop Entry]
+Comment[]=RC Helicopter
+Exec=ChopperRemote
+Type=Application
+Name[]=ChopperRemote
+Icon=ChopperRemote/ChopperRemote
+MimeType=""
+Name[en_US]=ChopperRemote.desktop
+
+[Translation]
+File=QtopiaApplications
+Context=ChopperRemote
+
+[DRM]
+MimeTypePermissions=""
