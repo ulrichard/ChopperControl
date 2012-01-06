@@ -1,0 +1,14 @@
+Source: choppercontrol
+Section: engineering
+Priority: optional
+Maintainer: Richard Ulrich <richi@paraeasy.ch>
+Build-Depends: gcc-avr, avr-libc, cmake, debhelper, libboost-dev, qt4-qmake, libqt4-dev, libqwt5-qt4-dev
+standards-Version: 3.8.1.0
+Homepage: http://blog.ulrichard.ch
+
+Package: choppercontrol
+Architecture: any
+Essential: no
+Depends: ${shlibs:Depends}, ${misc:Depends}, arduino
+Description: GUI program control an arduino based rc helicopter over a bluetooth link.
+
